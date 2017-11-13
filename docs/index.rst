@@ -9,7 +9,7 @@ Welcome to Sparkflows documentation!
 Contents:
 
 .. toctree::
-   :maxdepth: 3
+   :maxdepth: 5
    :glob:
 
    *
